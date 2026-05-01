@@ -295,7 +295,7 @@ This analytical page supports finance teams and business analysts in diagnosing 
 
 
 ### Page 4 — Profitability Deep Dive
-<img width="1485" height="814" alt="Screenshot 2026-05-01 210115" src="https://github.com/user-attachments/assets/25362f52-f2e1-430a-b681-5dd701ccf736" />
+<img width="1284" height="724" alt="Screenshot 2026-05-01 210029" src="https://github.com/user-attachments/assets/ea61fb27-c4c2-485e-be2c-f999fb9f1a92" />
 
 
 
