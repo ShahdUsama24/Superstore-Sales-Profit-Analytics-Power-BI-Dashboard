@@ -281,19 +281,22 @@ This analytical page supports finance teams and business analysts in diagnosing 
 ## 📸 Screenshots
 
 ### Page 1 — Executive Overview
-<img width="1284" height="724" alt="Screenshot 2026-05-01 210029" src="https://github.com/user-attachments/assets/0e040405-4768-4f6a-9f4f-e9faf853c3c8" />
-
+<img width="1485" height="814" alt="Screenshot 2026-05-01 210115" src="https://github.com/user-attachments/assets/b373de58-734d-41c7-bb9b-841c97dd5c6d" />
 
 ### Page 2 — Product & Category Performance
-<img width="1279" height="723" alt="Screenshot 2026-05-01 210051" src="https://github.com/user-attachments/assets/84f826cd-07ae-4684-925e-0a9578bb38d8" />
+<img width="1437" height="812" alt="Screenshot 2026-05-01 210226" src="https://github.com/user-attachments/assets/5371f886-e782-4e9a-9f7d-af039cc95129" />
+
 
 
 ### Page 3 — Sales Trends & Segment Analysis
-<img width="1485" height="814" alt="Screenshot 2026-05-01 210115" src="https://github.com/user-attachments/assets/b373de58-734d-41c7-bb9b-841c97dd5c6d" />
+
+<img width="1284" height="724" alt="Screenshot 2026-05-01 210029" src="https://github.com/user-attachments/assets/0e040405-4768-4f6a-9f4f-e9faf853c3c8" />
+
 
 
 ### Page 4 — Profitability Deep Dive
-<img width="1437" height="812" alt="Screenshot 2026-05-01 210226" src="https://github.com/user-attachments/assets/b516a38d-d7ae-403c-8468-ca874bcdef60" />
+<img width="1485" height="814" alt="Screenshot 2026-05-01 210115" src="https://github.com/user-attachments/assets/25362f52-f2e1-430a-b681-5dd701ccf736" />
+
 
 
 
