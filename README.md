@@ -8,7 +8,7 @@ This project is an end-to-end Business Intelligence dashboard built in Microsoft
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 This project is an end-to-end **Business Intelligence dashboard** built in **Microsoft Power BI** using the well-known **Superstore dataset**. It covers the full data analytics workflow — from raw data ingestion and cleaning, through data modeling, all the way to interactive visual storytelling.
 
@@ -16,7 +16,7 @@ The dashboard is designed to simulate a real-world retail analytics scenario, en
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Provide a **360° view** of the business across revenue, profit, customers, and geography
 - Enable **drill-down analysis** by region, product category, sub-category, segment, and time period
@@ -27,7 +27,7 @@ The dashboard is designed to simulate a real-world retail analytics scenario, en
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 | Property | Details |
 |---|---|
@@ -55,7 +55,7 @@ The dashboard is designed to simulate a real-world retail analytics scenario, en
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 All data preparation was performed inside **Power Query Editor** before loading into the model.
 
@@ -72,7 +72,7 @@ All data preparation was performed inside **Power Query Editor** before loading 
 
 ---
 
-## 🗂️ Data Model — Star Schema
+##  Data Model — Star Schema
 
 The data model follows a **Star Schema** design pattern, separating transactional facts from descriptive dimensions for optimal query performance.
 
@@ -117,7 +117,7 @@ All relationships are **one-to-many**, with the dimension table on the "one" sid
 
 ---
 
-## 🧮 DAX Calculations
+##  DAX Calculations
 
 ### Measures
 
@@ -184,7 +184,7 @@ DATEDIFF(FactOrders[OrderDate], FactOrders[ShipDate], DAY)
 
 ---
 
-## 📄 Dashboard Pages Overview
+##  Dashboard Pages Overview
 
 ### Page 1 — Executive Overview
 
@@ -250,7 +250,7 @@ This analytical page supports finance teams and business analysts in diagnosing 
 
 ---
 
-## 💡 Key Insights & Findings
+##  Key Insights & Findings
 
 | # | Insight | Business Implication |
 |---|---|---|
@@ -265,7 +265,7 @@ This analytical page supports finance teams and business analysts in diagnosing 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -281,37 +281,31 @@ This analytical page supports finance teams and business analysts in diagnosing 
 ## 📸 Screenshots
 
 ### Page 1 — Executive Overview
-![Page 1 - Executive Overview](screenshots/page1_executive_overview.png)
+<img width="1284" height="724" alt="Screenshot 2026-05-01 210029" src="https://github.com/user-attachments/assets/0e040405-4768-4f6a-9f4f-e9faf853c3c8" />
+
 
 ### Page 2 — Product & Category Performance
-![Page 2 - Product Performance](screenshots/page2_product_category.png)
+<img width="1279" height="723" alt="Screenshot 2026-05-01 210051" src="https://github.com/user-attachments/assets/84f826cd-07ae-4684-925e-0a9578bb38d8" />
+
 
 ### Page 3 — Sales Trends & Segment Analysis
-![Page 3 - Sales Trends](screenshots/page3_sales_trends.png)
+<img width="1485" height="814" alt="Screenshot 2026-05-01 210115" src="https://github.com/user-attachments/assets/b373de58-734d-41c7-bb9b-841c97dd5c6d" />
+
 
 ### Page 4 — Profitability Deep Dive
-![Page 4 - Profitability](screenshots/page4_profitability.png)
+<img width="1437" height="812" alt="Screenshot 2026-05-01 210226" src="https://github.com/user-attachments/assets/b516a38d-d7ae-403c-8468-ca874bcdef60" />
 
-> 💡 *All screenshots are stored in the `/screenshots` folder of this repository.*
-
----
-
-## 🚀 How to Use the Dashboard
-
-### Prerequisites
-- **Microsoft Power BI Desktop** (free) — [Download here](https://powerbi.microsoft.com/desktop/)
-- The Superstore dataset (included in `/data` folder or downloadable from Kaggle)
-
-
----
 
 
 
 ## 👤 Author
 
-**[Your Name]**
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-🐙 [GitHub](https://github.com/your-username)
+**[Shahd Usama]**
+Data Analyst | Python · SQL · Machine Learning
+
+[![[LinkedIn](https://www.linkedin.com/in/shahdusama/)](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]
+[![[GitHub](https://github.com/ShahdUsama24)](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)]
+
 
 ---
 
